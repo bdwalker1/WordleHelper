@@ -15,3 +15,7 @@ long as I have an internet connection.
 After my first or second guess at the daily Wordle puzzle I can use the match_unused_words() function to find likely words
 to guess.
 
+## Future Work?
+At present, I've been happy to use this code through Pythonista or the Python Console. I currently do have to manually 
+update the used words files. So, I may revisit this project in the future to make it a web-based app that can also
+manage the word lists.
