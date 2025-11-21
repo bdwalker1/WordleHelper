@@ -1554,6 +1554,7 @@ voice
 voila
 voter
 vouch
+vowel
 vying
 wacky
 wafer
