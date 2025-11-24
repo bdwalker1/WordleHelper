@@ -404,6 +404,7 @@ donor
 donut
 dopey
 doubt
+dough
 dowel
 dowry
 dozen
