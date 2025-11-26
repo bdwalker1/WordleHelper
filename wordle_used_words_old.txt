@@ -701,6 +701,7 @@ horse
 hotel
 hound
 house
+hovel
 hover
 howdy
 human
