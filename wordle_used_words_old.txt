@@ -1114,6 +1114,7 @@ regal
 relax
 relay
 relic
+remit
 renew
 repay
 repel
