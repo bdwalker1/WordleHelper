@@ -917,6 +917,7 @@ mouse
 mouth
 movie
 mucky
+muggy
 mulch
 mummy
 munch
