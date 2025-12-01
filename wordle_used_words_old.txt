@@ -792,6 +792,7 @@ lathe
 latte
 laugh
 layer
+leach
 leafy
 leaky
 leapt
