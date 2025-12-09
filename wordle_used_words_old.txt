@@ -1280,6 +1280,7 @@ snaky
 snare
 snarl
 sneak
+snide
 snoop
 snort
 snout
