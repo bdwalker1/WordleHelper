@@ -464,6 +464,7 @@ epoch
 epoxy
 equal
 equip
+erase
 erode
 error
 erupt
