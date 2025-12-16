@@ -1203,6 +1203,7 @@ scrub
 scrum
 sedan
 seedy
+segue
 sense
 serum
 serve
