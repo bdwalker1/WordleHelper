@@ -1608,6 +1608,7 @@ whine
 whiny
 whirl
 whisk
+white
 whole
 whoop
 whose
