@@ -609,6 +609,7 @@ glaze
 gleam
 glean
 glide
+glint
 gloat
 globe
 gloom
