@@ -1330,6 +1330,7 @@ split
 spoil
 spoke
 spoof
+spool
 spoon
 spore
 sport
