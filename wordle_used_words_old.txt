@@ -1076,6 +1076,7 @@ primo
 primp
 print
 prior
+prism
 prize
 probe
 prone
