@@ -1314,6 +1314,7 @@ spate
 speak
 spear
 speck
+speed
 spell
 spelt
 spend
