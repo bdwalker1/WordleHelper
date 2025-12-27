@@ -117,6 +117,7 @@ barge
 basic
 basin
 baste
+batch
 bathe
 baton
 batty
