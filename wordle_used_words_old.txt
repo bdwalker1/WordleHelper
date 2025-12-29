@@ -578,6 +578,7 @@ frost
 froth
 frown
 froze
+fruit
 fugue
 fully
 fungi
