@@ -378,6 +378,7 @@ debug
 debut
 decal
 decay
+decor
 decoy
 decry
 defer
