@@ -1258,6 +1258,7 @@ siege
 sight
 silly
 since
+siren
 sissy
 sixth
 skate
