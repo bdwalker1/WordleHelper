@@ -491,6 +491,7 @@ expel
 extol
 extra
 exult
+fable
 facet
 faint
 faith
