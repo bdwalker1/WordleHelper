@@ -1086,6 +1086,7 @@ prize
 probe
 prone
 prong
+proof
 prose
 proud
 prove
