@@ -1018,6 +1018,7 @@ pause
 peace
 peach
 pearl
+pecan
 pedal
 penne
 perch
