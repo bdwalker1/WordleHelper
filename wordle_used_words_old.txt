@@ -154,6 +154,7 @@ blame
 bland
 blank
 blare
+blast
 blaze
 bleak
 bleed
