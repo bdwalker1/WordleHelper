@@ -449,6 +449,7 @@ ebony
 edict
 edify
 egret
+eight
 eject
 elate
 elbow
