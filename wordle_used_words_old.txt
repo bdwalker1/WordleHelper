@@ -877,6 +877,7 @@ mambo
 manga
 mango
 mania
+manic
 manly
 manor
 maple
