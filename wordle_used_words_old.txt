@@ -679,6 +679,7 @@ guild
 guile
 guise
 gully
+gumbo
 gummy
 guppy
 gusty
