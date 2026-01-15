@@ -264,6 +264,7 @@ chard
 charm
 chart
 chase
+chasm
 cheap
 cheat
 check
