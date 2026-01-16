@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1672,01-16-2026,racer
 1671,01-15-2026,chasm
 1670,01-14-2026,avoid
 1669,01-13-2026,gumbo
