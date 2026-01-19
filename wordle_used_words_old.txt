@@ -1620,6 +1620,7 @@ waltz
 waste
 watch
 water
+waxen
 weary
 wedge
 weedy
