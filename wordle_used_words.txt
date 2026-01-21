@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1677,01-21-2026,cubic
 1676,01-20-2026,sully
 1675,01-19-2026,waxen
 1674,01-18-2026,sumac
