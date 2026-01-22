@@ -300,6 +300,7 @@ clerk
 click
 climb
 cling
+clink
 cloak
 clock
 clone
