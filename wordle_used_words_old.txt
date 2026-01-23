@@ -116,6 +116,7 @@ balsa
 banal
 banjo
 barge
+baron
 basic
 basin
 baste
