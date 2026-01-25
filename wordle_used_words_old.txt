@@ -1415,6 +1415,7 @@ stove
 strap
 straw
 stray
+strut
 study
 stump
 stung
