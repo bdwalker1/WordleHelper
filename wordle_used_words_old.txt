@@ -579,6 +579,7 @@ foyer
 frame
 frail
 frank
+freak
 fresh
 fried
 frill
