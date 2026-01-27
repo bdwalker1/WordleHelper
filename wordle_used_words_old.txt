@@ -440,6 +440,7 @@ droop
 drove
 dryer
 duchy
+dusky
 dutch
 dummy
 duvet
