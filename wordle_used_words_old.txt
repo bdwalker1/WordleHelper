@@ -360,6 +360,7 @@ crook
 cross
 crowd
 crown
+cruel
 crumb
 crush
 crust
