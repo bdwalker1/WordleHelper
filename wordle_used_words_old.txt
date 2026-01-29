@@ -536,6 +536,7 @@ fjord
 flail
 flair
 flake
+flaky
 flame
 flank
 flare
