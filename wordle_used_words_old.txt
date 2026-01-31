@@ -41,6 +41,7 @@ alert
 alien
 alike
 alive
+allot
 allow
 aloft
 alone
