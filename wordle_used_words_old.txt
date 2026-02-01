@@ -1356,6 +1356,7 @@ spiel
 spike
 spill
 spine
+spiny
 spire
 spite
 splat
