@@ -273,6 +273,7 @@ check
 cheek
 cheer
 chest
+chide
 chief
 child
 chill
