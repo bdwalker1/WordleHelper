@@ -1452,6 +1452,7 @@ swing
 swirl
 swish
 swoon
+swoop
 sword
 swung
 syrup
