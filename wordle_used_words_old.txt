@@ -610,6 +610,7 @@ gaudy
 gauge
 gaunt
 gauze
+gavel
 gawky
 gecko
 geese
