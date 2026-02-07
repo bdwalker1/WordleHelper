@@ -160,6 +160,7 @@ blare
 blast
 blaze
 bleak
+bleat
 bleed
 bleep
 blend
