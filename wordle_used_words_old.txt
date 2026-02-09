@@ -256,6 +256,7 @@ caulk
 cause
 cease
 cedar
+cello
 chafe
 chain
 chair
