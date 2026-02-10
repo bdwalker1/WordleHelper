@@ -1228,6 +1228,7 @@ scale
 scant
 scare
 scarf
+scene
 scent
 scoff
 scold
