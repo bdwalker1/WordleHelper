@@ -1301,6 +1301,7 @@ skiff
 skill
 skimp
 skirt
+skull
 skunk
 slang
 slate
