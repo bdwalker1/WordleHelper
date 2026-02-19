@@ -733,6 +733,7 @@ hippo
 hitch
 hoard
 hobby
+hoist
 holly
 homer
 honey
