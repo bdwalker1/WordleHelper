@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1707,02-20-2026,stank
 1706,02-19-2026,hoist
 1705,02-18-2026,mogul
 1704,02-17-2026,squad
