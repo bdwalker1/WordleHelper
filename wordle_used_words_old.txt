@@ -690,6 +690,7 @@ gruel
 gruff
 guano
 guard
+guava
 guess
 guest
 guide
