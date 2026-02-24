@@ -234,6 +234,7 @@ bunch
 bunny
 burly
 burnt
+buyer
 cable
 cacao
 cache
