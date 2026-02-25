@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1712,02-25-2026,shred
 1711,02-24-2026,buyer
 1710,02-23-2026,attic
 1709,02-22-2026,guava
