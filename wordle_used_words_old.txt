@@ -1287,6 +1287,7 @@ shout
 shove
 shown
 showy
+shred
 shrub
 shrug
 shuck
