@@ -823,6 +823,7 @@ label
 labor
 ladle
 lager
+lance
 lanky
 lapel
 lapse
