@@ -418,6 +418,7 @@ dirge
 disco
 ditto
 ditty
+dizzy
 dodge
 dodgy
 dogma
