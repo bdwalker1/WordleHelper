@@ -566,6 +566,7 @@ flour
 flout
 flown
 fluff
+fluke
 flume
 flung
 flunk
