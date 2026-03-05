@@ -1277,6 +1277,7 @@ sharp
 shave
 shawl
 shear
+sheep
 sheet
 shelf
 shell
