@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1722,03-07-2026,vogue
 1721,03-06-2026,gunky
 1720,03-05-2026,sheep
 1719,03-04-2026,theft
