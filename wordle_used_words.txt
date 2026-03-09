@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1724,03-09-2026,hasty
 1723,03-08-2026,lobby
 1722,03-07-2026,vogue
 1721,03-06-2026,gunky
