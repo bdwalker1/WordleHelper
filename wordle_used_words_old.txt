@@ -715,6 +715,7 @@ happy
 hardy
 harsh
 haste
+hasty
 hatch
 hater
 haunt
