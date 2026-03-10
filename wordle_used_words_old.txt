@@ -1288,6 +1288,7 @@ shift
 shine
 shire
 shirk
+shoal
 shore
 shorn
 short
