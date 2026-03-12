@@ -1334,6 +1334,7 @@ small
 smart
 smash
 smear
+smell
 smelt
 smile
 smirk
