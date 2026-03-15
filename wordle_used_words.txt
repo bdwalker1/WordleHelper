@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1730,03-15-2026,grade
 1729,03-14-2026,ankle
 1728,03-13-2026,eaten
 1727,03-12-2026,smell
