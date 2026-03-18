@@ -57,6 +57,7 @@ amble
 amiss
 among
 ample
+amply
 amuse
 angel
 anger
