@@ -1183,6 +1183,7 @@ recap
 recur
 refer
 regal
+rehab
 relax
 relay
 relic
