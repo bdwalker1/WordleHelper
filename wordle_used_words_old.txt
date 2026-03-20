@@ -1015,6 +1015,7 @@ nudge
 nurse
 nylon
 nymph
+oasis
 occur
 ocean
 octet
