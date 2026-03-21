@@ -1331,6 +1331,7 @@ slate
 sleek
 sleep
 slice
+slick
 slime
 slope
 slosh
