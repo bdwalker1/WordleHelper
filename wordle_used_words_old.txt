@@ -122,6 +122,7 @@ banjo
 barge
 baron
 basic
+basil
 basin
 baste
 batch
