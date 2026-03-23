@@ -1270,6 +1270,7 @@ sedan
 seedy
 segue
 sense
+serif
 serum
 serve
 seven
