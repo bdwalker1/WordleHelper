@@ -23,6 +23,7 @@ adopt
 adore
 adult
 affix
+afoot
 after
 again
 agape
