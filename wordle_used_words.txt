@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1743,03-28-2026,afoot
 1742,03-27-2026,ivory
 1741,03-26-2026,befit
 1740,03-25-2026,wiser
