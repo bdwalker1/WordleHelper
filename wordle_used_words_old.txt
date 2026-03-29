@@ -296,6 +296,7 @@ choke
 chord
 chore
 chose
+chump
 chunk
 chute
 cider
