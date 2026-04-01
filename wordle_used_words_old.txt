@@ -551,6 +551,7 @@ finer
 first
 fishy
 fixer
+fizzy
 fjord
 flail
 flair
