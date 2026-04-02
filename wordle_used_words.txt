@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1748,04-02-2026,sober
 1747,04-01-2026,fizzy
 1746,03-31-2026,swamp
 1745,03-30-2026,comet
