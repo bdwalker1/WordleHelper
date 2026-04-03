@@ -1321,6 +1321,7 @@ siege
 sight
 silly
 since
+singe
 siren
 sissy
 sitar
