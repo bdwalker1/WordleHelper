@@ -494,6 +494,7 @@ enjoy
 ennui
 ensue
 enter
+envoy
 epoch
 epoxy
 equal
