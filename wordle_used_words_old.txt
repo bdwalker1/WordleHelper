@@ -840,6 +840,7 @@ koala
 krill
 label
 labor
+laden
 ladle
 lager
 lance
