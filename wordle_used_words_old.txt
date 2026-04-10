@@ -256,6 +256,7 @@ caper
 carat
 cargo
 carol
+carom
 carry
 carve
 catch
