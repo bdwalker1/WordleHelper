@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1762,04-16-2026,cubit
 1761,04-15-2026,begun
 1760,04-14-2026,cycle
 1759,04-13-2026,elfin
