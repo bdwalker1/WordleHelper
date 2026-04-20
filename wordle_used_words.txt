@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1766,04-20-2026,weave
 1765,04-19-2026,stand
 1764,04-18-2026,toady
 1763,04-17-2026,belle
