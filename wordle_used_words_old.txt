@@ -1701,6 +1701,7 @@ watch
 water
 waxen
 weary
+weave
 wedge
 weedy
 weigh
