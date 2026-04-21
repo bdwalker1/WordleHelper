@@ -331,6 +331,7 @@ cloud
 clove
 clown
 cluck
+clump
 clung
 coach
 coast
