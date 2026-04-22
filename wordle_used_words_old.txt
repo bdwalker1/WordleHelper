@@ -1381,6 +1381,7 @@ snarl
 sneak
 snide
 snoop
+snore
 snort
 snout
 sober
