@@ -666,6 +666,7 @@ gloat
 globe
 gloom
 glory
+gloss
 glove
 glyph
 gnash
