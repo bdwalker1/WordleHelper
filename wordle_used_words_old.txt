@@ -483,6 +483,7 @@ eaten
 ebony
 edict
 edify
+eerie
 egret
 eight
 eject
