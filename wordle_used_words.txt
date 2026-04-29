@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1775,04-29-2026,rural
 1774,04-28-2026,quack
 1773,04-27-2026,eerie
 1772,04-26-2026,gloss
