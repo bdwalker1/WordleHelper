@@ -1124,6 +1124,7 @@ plead
 pleat
 pluck
 plumb
+plume
 plump
 plunk
 point
