@@ -1234,6 +1234,7 @@ right
 rigid
 riper
 risen
+riser
 rival
 rivet
 roach
