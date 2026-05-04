@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1780,05-04-2026,riser
 1779,05-03-2026,puffy
 1778,05-02-2026,bring
 1777,05-01-2026,plume
