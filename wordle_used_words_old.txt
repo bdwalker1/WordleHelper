@@ -863,6 +863,7 @@ large
 larva
 laser
 lasso
+latch
 later
 lathe
 latte
