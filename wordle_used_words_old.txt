@@ -889,6 +889,7 @@ level
 lever
 libel
 light
+liken
 lilac
 limbo
 limit
