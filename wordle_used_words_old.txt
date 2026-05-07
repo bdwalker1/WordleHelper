@@ -232,6 +232,7 @@ brown
 brush
 brute
 buddy
+budge
 buggy
 bugle
 build
