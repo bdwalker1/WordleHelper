@@ -1652,6 +1652,7 @@ twist
 udder
 ulcer
 ultra
+umbra
 uncle
 under
 undid
