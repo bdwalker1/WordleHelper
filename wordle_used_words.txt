@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1788,05-12-2026,clock
 1787,05-11-2026,newly
 1786,05-10-2026,parka
 1785,05-09-2026,satin
