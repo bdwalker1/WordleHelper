@@ -1719,6 +1719,7 @@ waltz
 waste
 watch
 water
+waver
 waxen
 weary
 weave
