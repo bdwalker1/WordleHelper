@@ -1771,6 +1771,7 @@ wound
 woven
 wrath
 wreak
+wreck
 wrist
 write
 wrong
