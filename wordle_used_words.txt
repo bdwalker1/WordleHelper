@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1798,05-22-2026,vocal
 1797,05-21-2026,agree
 1796,05-20-2026,wreck
 1795,05-19-2026,dusty
