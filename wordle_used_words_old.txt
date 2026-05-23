@@ -302,6 +302,7 @@ choke
 chord
 chore
 chose
+chuck
 chump
 chunk
 chute
