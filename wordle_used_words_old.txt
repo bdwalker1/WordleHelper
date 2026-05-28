@@ -440,6 +440,7 @@ dirge
 disco
 ditto
 ditty
+divot
 dizzy
 dodge
 dodgy
