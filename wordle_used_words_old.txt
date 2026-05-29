@@ -313,6 +313,7 @@ circa
 civic
 civil
 clamp
+clang
 clash
 clasp
 class
