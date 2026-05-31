@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1807,05-31-2026,etude
 1806,05-30-2026,smile
 1805,05-29-2026,clang
 1804,05-28-2026,divot
