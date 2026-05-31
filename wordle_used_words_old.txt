@@ -528,6 +528,7 @@ essay
 ether
 ethic
 ethos
+etude
 evade
 event
 every
