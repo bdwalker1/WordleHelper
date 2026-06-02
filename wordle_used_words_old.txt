@@ -126,6 +126,7 @@ baron
 basic
 basil
 basin
+basis
 baste
 batch
 bathe
