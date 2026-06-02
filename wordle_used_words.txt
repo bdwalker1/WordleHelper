@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1809,06-02-2026,basis
 1808,06-01-2026,chili
 1807,05-31-2026,etude
 1806,05-30-2026,smile
