@@ -45,6 +45,7 @@ alive
 alley
 allot
 allow
+alloy
 aloft
 alone
 along
