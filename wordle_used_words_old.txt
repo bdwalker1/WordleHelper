@@ -1047,6 +1047,7 @@ night
 ninja
 ninth
 noble
+nobly
 noise
 noisy
 nomad
