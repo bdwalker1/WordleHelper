@@ -942,6 +942,7 @@ macaw
 macho
 madam
 madly
+mafia
 magic
 magma
 maize
