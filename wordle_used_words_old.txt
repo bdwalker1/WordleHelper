@@ -1750,6 +1750,7 @@ weigh
 weird
 whack
 whale
+wharf
 wheat
 wheel
 whelp
