@@ -1324,6 +1324,7 @@ sedan
 seedy
 segue
 sense
+sepia
 serif
 serum
 serve
