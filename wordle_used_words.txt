@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1823,06-16-2026,amaze
 1822,06-15-2026,broil
 1821,06-14-2026,sepia
 1820,06-13-2026,quell
