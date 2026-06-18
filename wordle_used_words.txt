@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1825,06-18-2026,entry
 1824,06-17-2026,token
 1823,06-16-2026,amaze
 1822,06-15-2026,broil
