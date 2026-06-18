@@ -521,6 +521,7 @@ enjoy
 ennui
 ensue
 enter
+entry
 envoy
 epoch
 epoxy
