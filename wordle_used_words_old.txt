@@ -513,6 +513,7 @@ elude
 email
 embed
 ember
+emoji
 empty
 enact
 endow
