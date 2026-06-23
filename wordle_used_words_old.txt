@@ -404,6 +404,7 @@ cubit
 cumin
 curio
 curly
+curry
 curse
 curve
 cyber
