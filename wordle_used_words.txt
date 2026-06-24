@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1831,06-24-2026,queer
 1830,06-23-2026,curry
 1829,06-22-2026,ovate
 1828,06-21-2026,alibi
