@@ -1209,6 +1209,7 @@ quark
 quart
 quash
 queen
+queer
 quell
 query
 quest
