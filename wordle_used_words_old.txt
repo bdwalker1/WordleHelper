@@ -1699,6 +1699,7 @@ unfit
 unify
 union
 unite
+unity
 unlit
 unmet
 untie
