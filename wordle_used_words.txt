@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1833,06-26-2026,acute
 1832,06-25-2026,unity
 1831,06-24-2026,queer
 1830,06-23-2026,curry
