@@ -1319,6 +1319,7 @@ scent
 scoff
 scold
 scone
+scoop
 scope
 score
 scorn
