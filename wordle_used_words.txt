@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1835,06-28-2026,emcee
 1834,06-27-2026,scoop
 1833,06-26-2026,acute
 1832,06-25-2026,unity
