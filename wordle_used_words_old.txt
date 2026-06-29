@@ -394,6 +394,7 @@ crook
 cross
 crowd
 crown
+crude
 cruel
 crumb
 crush
