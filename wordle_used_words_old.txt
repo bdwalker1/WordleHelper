@@ -432,6 +432,7 @@ deity
 delay
 delta
 delve
+demur
 denim
 dense
 depot
