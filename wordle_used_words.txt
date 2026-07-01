@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1838,07-01-2026,demur
 1837,06-30-2026,puppy
 1836,06-29-2026,crude
 1835,06-28-2026,emcee
