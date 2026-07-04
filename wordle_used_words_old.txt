@@ -1148,6 +1148,7 @@ pitch
 pithy
 pixel
 pixie
+pizza
 place
 plaid
 plain
