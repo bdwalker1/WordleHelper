@@ -60,6 +60,7 @@ amass
 amaze
 amber
 amble
+amend
 amiss
 among
 ample
