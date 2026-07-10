@@ -260,6 +260,7 @@ cacti
 cadet
 camel
 cameo
+canal
 candy
 canny
 canon
