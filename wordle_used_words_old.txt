@@ -1510,6 +1510,7 @@ start
 stash
 state
 stead
+steak
 steam
 steed
 steel
