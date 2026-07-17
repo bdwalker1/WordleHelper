@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1854,07-17-2026,legal
 1853,07-16-2026,butte
 1852,07-15-2026,pshaw
 1851,07-14-2026,steak
