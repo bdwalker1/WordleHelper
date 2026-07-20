@@ -459,6 +459,7 @@ dirge
 disco
 ditto
 ditty
+diver
 divot
 dizzy
 dodge
