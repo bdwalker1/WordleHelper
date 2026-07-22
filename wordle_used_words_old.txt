@@ -943,6 +943,7 @@ lofty
 logic
 loopy
 loris
+lorry
 loser
 louse
 lousy
