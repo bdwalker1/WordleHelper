@@ -1223,6 +1223,7 @@ pulpy
 pupil
 puppy
 purge
+purse
 putty
 quack
 quail
