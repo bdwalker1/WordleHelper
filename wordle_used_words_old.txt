@@ -1432,6 +1432,7 @@ slosh
 sloth
 slump
 slung
+slush
 small
 smart
 smash
