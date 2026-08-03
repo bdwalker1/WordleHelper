@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1871,08-03-2026,reply
 1870,08-02-2026,penal
 1869,08-01-2026,slush
 1868,07-31-2026,purse
