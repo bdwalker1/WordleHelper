@@ -1278,6 +1278,7 @@ remit
 renew
 repay
 repel
+reply
 rerun
 resin
 retch
