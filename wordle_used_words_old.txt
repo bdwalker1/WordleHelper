@@ -1190,6 +1190,7 @@ polyp
 poppy
 porch
 poser
+posit
 posse
 pound
 pouty
