@@ -1460,6 +1460,7 @@ snare
 snarl
 sneak
 snide
+snipe
 snoop
 snore
 snort
