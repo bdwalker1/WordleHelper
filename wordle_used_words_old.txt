@@ -579,6 +579,7 @@ fault
 favor
 feast
 feign
+fence
 feral
 ferry
 fetch
