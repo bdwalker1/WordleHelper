@@ -1825,6 +1825,7 @@ whose
 widen
 width
 wield
+wimpy
 wince
 windy
 wiser
