@@ -380,6 +380,7 @@ craft
 cramp
 crane
 crank
+crash
 crass
 crate
 crave
