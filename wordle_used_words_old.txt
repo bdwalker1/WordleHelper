@@ -685,6 +685,7 @@ gecko
 geese
 genie
 genre
+geode
 ghost
 ghoul
 giant
