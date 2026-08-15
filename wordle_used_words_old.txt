@@ -948,6 +948,7 @@ lodge
 lofty
 logic
 loopy
+loose
 loris
 lorry
 loser
