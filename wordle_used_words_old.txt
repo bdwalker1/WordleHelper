@@ -1702,6 +1702,7 @@ treat
 trend
 triad
 trial
+tribe
 trice
 trick
 tripe
