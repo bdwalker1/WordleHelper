@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1886,08-18-2026,strip
 1885,08-17-2026,tribe
 1884,08-16-2026,aspic
 1883,08-15-2026,loose
