@@ -271,6 +271,7 @@ canny
 canon
 canoe
 caper
+capon
 carat
 cargo
 carol
