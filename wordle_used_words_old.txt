@@ -1743,6 +1743,7 @@ ulcer
 ultra
 umbra
 uncle
+uncut
 under
 undid
 undue
