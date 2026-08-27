@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1895,08-27-2026,uncut
 1894,08-26-2026,capon
 1893,08-25-2026,click
 1892,08-24-2026,runny
