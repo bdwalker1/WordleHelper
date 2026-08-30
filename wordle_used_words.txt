@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1898,08-30-2026,intel
 1897,08-29-2026,blood
 1896,08-28-2026,tween
 1895,08-27-2026,uncut
