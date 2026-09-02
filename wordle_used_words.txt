@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1901,09-02-2026,ruler
 1900,09-01-2026,remix
 1899,08-31-2026,mound
 1898,08-30-2026,intel
