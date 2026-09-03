@@ -868,6 +868,7 @@ jerky
 jewel
 jiffy
 joint
+joist
 joker
 jolly
 joust
