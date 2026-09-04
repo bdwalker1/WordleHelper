@@ -1810,6 +1810,7 @@ vowel
 vying
 wacky
 wafer
+wager
 wagon
 waist
 waltz
