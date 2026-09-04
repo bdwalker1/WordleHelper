@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1903,09-04-2026,wager
 1902,09-03-2026,joist
 1901,09-02-2026,ruler
 1900,09-01-2026,remix
