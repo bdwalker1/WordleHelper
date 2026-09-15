@@ -435,6 +435,7 @@ dance
 dandy
 datum
 daunt
+dealt
 death
 debit
 debug
