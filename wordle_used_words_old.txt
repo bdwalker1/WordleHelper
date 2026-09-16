@@ -1860,6 +1860,7 @@ wimpy
 wince
 windy
 wiser
+wispy
 witch
 witty
 woken
