@@ -1491,6 +1491,7 @@ snoop
 snore
 snort
 snout
+snowy
 sober
 soggy
 solar
