@@ -1826,6 +1826,7 @@ wager
 wagon
 waist
 waltz
+waken
 waste
 watch
 water
