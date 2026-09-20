@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1919,09-20-2026,shone
 1918,09-19-2026,waken
 1917,09-18-2026,snowy
 1916,09-17-2026,theta
