@@ -1579,6 +1579,7 @@ stink
 stint
 stock
 stoic
+stoke
 stole
 stomp
 stone
