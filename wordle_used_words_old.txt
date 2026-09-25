@@ -371,6 +371,7 @@ comma
 conch
 condo
 conic
+copse
 coral
 corer
 corny
