@@ -1746,6 +1746,7 @@ trout
 trove
 truck
 truly
+trunk
 truss
 trust
 truth
