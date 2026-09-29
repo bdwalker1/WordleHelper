@@ -1390,6 +1390,7 @@ scram
 scrap
 scrub
 scrum
+scuba
 sedan
 seedy
 segue
