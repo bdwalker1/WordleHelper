@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1930,10-01-2026,ritzy
 1929,09-30-2026,river
 1928,09-29-2026,scuba
 1927,09-28-2026,trunk
