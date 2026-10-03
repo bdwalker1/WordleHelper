@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1032,10-03-2026,peeve
 1931,10-02-2026,usury
 1930,10-01-2026,ritzy
 1929,09-30-2026,river
