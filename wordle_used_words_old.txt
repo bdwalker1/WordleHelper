@@ -1403,6 +1403,7 @@ serum
 serve
 seven
 sever
+shack
 shade
 shaft
 shake
