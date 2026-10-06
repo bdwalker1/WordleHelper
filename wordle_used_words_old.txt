@@ -464,6 +464,7 @@ devil
 diary
 dicey
 digit
+dimly
 diner
 dingo
 dingy
