@@ -1875,6 +1875,7 @@ whole
 whoop
 whose
 widen
+wider
 width
 wield
 wimpy
