@@ -1252,6 +1252,7 @@ prude
 prune
 psalm
 pshaw
+psych
 puffy
 pulpy
 pupil
