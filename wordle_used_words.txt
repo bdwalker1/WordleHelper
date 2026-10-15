@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1944,10-15-2026,dunce
 1943,10-14-2026,psych
 1942,10-13-2026,wider
 1941,10-12-2026,yodel
