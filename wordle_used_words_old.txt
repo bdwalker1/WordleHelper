@@ -1410,6 +1410,7 @@ seven
 sever
 shack
 shade
+shady
 shaft
 shake
 shaky
