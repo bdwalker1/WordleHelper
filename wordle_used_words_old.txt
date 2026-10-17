@@ -686,6 +686,7 @@ fungi
 funky
 funny
 fuzzy
+gaffe
 gamer
 gamma
 gamut
