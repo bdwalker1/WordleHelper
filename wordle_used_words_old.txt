@@ -21,6 +21,7 @@ admit
 adobe
 adopt
 adore
+adorn
 adult
 affix
 afoot
