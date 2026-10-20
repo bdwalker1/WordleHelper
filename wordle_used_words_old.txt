@@ -1905,6 +1905,7 @@ woven
 wrath
 wreak
 wreck
+wrest
 wrist
 write
 wrong
