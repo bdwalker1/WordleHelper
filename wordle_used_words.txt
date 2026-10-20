@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1949,10-20-2026,wrest
 1948,10-19-2026,stink
 1947,10-18-2026,adorn
 1946,10-17-2026,gaffe
