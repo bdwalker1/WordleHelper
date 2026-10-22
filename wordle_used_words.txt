@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1951,10-22-2026,reset
 1950,10-21-2026,penny
 1949,10-20-2026,wrest
 1948,10-19-2026,stink
