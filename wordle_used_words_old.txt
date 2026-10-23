@@ -1168,6 +1168,7 @@ peach
 pearl
 pecan
 pedal
+peeve
 penal
 penne
 penny
@@ -1752,6 +1753,7 @@ trial
 tribe
 trice
 trick
+trill
 tripe
 trite
 troll
