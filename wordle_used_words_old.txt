@@ -699,6 +699,7 @@ gauze
 gavel
 gawky
 gecko
+geeky
 geese
 genie
 genre
