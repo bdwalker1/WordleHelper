@@ -169,6 +169,7 @@ bevel
 bicep
 bilge
 binge
+bingo
 biome
 birch
 birth
