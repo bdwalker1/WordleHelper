@@ -1482,6 +1482,7 @@ sleek
 sleep
 slice
 slick
+slide
 slime
 sling
 sloop
