@@ -1231,6 +1231,7 @@ porch
 poser
 posit
 posse
+pouch
 pound
 pouty
 power
