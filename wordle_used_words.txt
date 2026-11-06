@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1966,11-06-2026,dreck
 1965,11-05-2026,parch
 1964,11-04-2026,nutty
 1963,11-03-2026,pouch
