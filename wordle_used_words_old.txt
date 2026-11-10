@@ -1774,6 +1774,7 @@ troop
 trope
 trout
 trove
+truce
 truck
 truly
 trunk
