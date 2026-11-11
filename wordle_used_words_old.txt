@@ -186,6 +186,7 @@ bleat
 bleed
 bleep
 blend
+bless
 blimp
 blind
 blink
