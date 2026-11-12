@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1972,11-12-2026,karma
 1971,11-11-2026,bless
 1970,11-10-2026,truce
 1969,11-09-2026,loamy
