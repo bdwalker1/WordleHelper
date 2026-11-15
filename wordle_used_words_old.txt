@@ -1520,6 +1520,7 @@ snail
 snake
 snaky
 snare
+snark
 snarl
 sneak
 snide
