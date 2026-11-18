@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1978,11-18-2026,blurt
 1977,11-17-2026,roast
 1976,11-16-2026,drawl
 1975,11-15-2026,snark
