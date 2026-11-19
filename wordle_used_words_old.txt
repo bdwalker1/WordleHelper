@@ -358,6 +358,7 @@ clone
 close
 cloth
 cloud
+clout
 clove
 clown
 cluck
