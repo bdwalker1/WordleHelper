@@ -91,6 +91,7 @@ ardor
 argue
 arise
 aroma
+arose
 arrow
 artsy
 ascot
