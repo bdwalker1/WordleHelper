@@ -1609,6 +1609,7 @@ steed
 steel
 steep
 stein
+stent
 stern
 stick
 stiff
