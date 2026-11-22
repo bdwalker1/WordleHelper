@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1982,11-22-2026,upend
 1981,11-21-2026,stent
 1980,11-20-2026,arose
 1979,11-19-2026,clout
