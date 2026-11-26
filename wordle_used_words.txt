@@ -1,4 +1,5 @@
 game_no,game_date,used_word
+1986,11-26-2026,tense
 1985,11-25-2026,spicy
 1984,11-24-2026,sneer
 1983,11-23-2026,filth
