@@ -1448,6 +1448,7 @@ share
 sharp
 shave
 shawl
+sheaf
 shear
 sheep
 sheet
